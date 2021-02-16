@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:/\/\deutschhaus.de"
+                 "value":"https:\/\/deutschhaus.de"
                 }],
          "type":"tilelayer",
          "visible":true,
