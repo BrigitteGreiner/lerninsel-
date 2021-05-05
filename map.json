@@ -223,7 +223,7 @@ t{ "compressionlevel":-1,
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"sign2"
+                 "value":"..\/docs\/map.html"
                 }],
          "type":"tilelayer",
          "visible":true,
