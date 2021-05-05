@@ -1,3 +1,35 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@BrigitteGreiner 
+BrigitteGreiner
+/
+lerninsel85
+generated from onkeloki/lerninsel
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+lerninsel85/map.json
+@BrigitteGreiner
+BrigitteGreiner Update map.json
+Latest commit 4e543f5 24 minutes ago
+ History
+ 1 contributor
+2372 lines (2372 sloc)  217 KB
+  
 t{ "compressionlevel":-1,
  "editorsettings":
     {
@@ -205,7 +237,7 @@ t{ "compressionlevel":-1,
                 {
                  "name":"QRCode",
                  "type":"string",
-                 "value":"https:\/\/brigittegreiner.github.io\/lerninsel85\/docs\/text.html"
+                 "value":"..\/docs\/text.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -223,7 +255,7 @@ t{ "compressionlevel":-1,
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/brigittegreiner.github.io\/lerninsel85\/docs\/karte.html"
+                 "value":"sign2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2370,3 +2402,15 @@ t{ "compressionlevel":-1,
  "version":1.4,
  "width":46
 }
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
