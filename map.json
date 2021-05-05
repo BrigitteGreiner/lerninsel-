@@ -203,9 +203,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"QRCode",
                  "type":"string",
-                 "value":"sign1"
+                 "value":"\/docs\/BarcampQRCODE.png"
                 }],
          "type":"tilelayer",
          "visible":true,
