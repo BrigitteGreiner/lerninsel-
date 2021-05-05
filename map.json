@@ -333,6 +333,12 @@ e{ "compressionlevel":-1,
          "id":33,
          "name":"teacherplace_floor",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"BrigitteGreiner-lerninsel85-teacherplace"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
