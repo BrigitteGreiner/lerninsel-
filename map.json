@@ -223,7 +223,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/brigittegreiner.github.io\/lerninsel85\/docs\/karte.html"
+                 "value":"https:\/\/brigittegreiner.github.io\/lerninsel85\/docs\/logo.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -241,7 +241,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"sign3"
+                 "value":"https:\/\/brigittegreiner.github.io\/lerninsel85\/docs\/logo.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -259,7 +259,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"sign4"
+                 "value":"https:\/\/brigittegreiner.github.io\/lerninsel85\/docs\/karte_lerninsel.html "
                 }],
          "type":"tilelayer",
          "visible":true,
