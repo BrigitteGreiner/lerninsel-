@@ -223,7 +223,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/brigittegreiner.github.io\/lerninsel85\/docs\/logo.html"
+                 "value":"https:\/\/brigittegreiner.github.io\/lerninsel85\/docs\/anleitung.html"
                 }],
          "type":"tilelayer",
          "visible":true,
