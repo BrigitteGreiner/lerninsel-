@@ -1,4 +1,4 @@
-{ "compressionlevel":-1,
+t{ "compressionlevel":-1,
  "editorsettings":
     {
      "chunksize":
@@ -205,7 +205,7 @@
                 {
                  "name":"QRCode",
                  "type":"string",
-                 "value":"..\/docs\/BarcampQRCODE.png"
+                 "value":"..\/docs\/text.html"
                 }],
          "type":"tilelayer",
          "visible":true,
