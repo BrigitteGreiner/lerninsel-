@@ -223,7 +223,7 @@ t{ "compressionlevel":-1,
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/brigittegreiner.github.io\/lerninsel85\/docs\/map.html"
+                 "value":"https:\/\/brigittegreiner.github.io\/lerninsel85\/docs\/karte.html"
                 }],
          "type":"tilelayer",
          "visible":true,
