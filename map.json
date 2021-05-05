@@ -333,6 +333,12 @@
          "id":33,
          "name":"teacherplace_floor",
          "opacity":1,
+          "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"GIT_OWNER-session1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
