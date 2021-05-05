@@ -1,4 +1,4 @@
-{ "compressionlevel":-1,
+e{ "compressionlevel":-1,
  "editorsettings":
     {
      "chunksize":
@@ -203,7 +203,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"QRCode",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/brigittegreiner.github.io\/lerninsel85\/docs\/text.html"
                 }],
