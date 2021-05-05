@@ -205,7 +205,7 @@ t{ "compressionlevel":-1,
                 {
                  "name":"QRCode",
                  "type":"string",
-                 "value":"..\/docs\/text.html"
+                 "value":"https:\/\/brigittegreiner.github.io\/lerninsel85\/docs\/text.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -223,7 +223,7 @@ t{ "compressionlevel":-1,
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"sign2"
+                 "value":"https:\/\/brigittegreiner.github.io\/lerninsel85\/docs\/karte.html"
                 }],
          "type":"tilelayer",
          "visible":true,
